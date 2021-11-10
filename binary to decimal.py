@@ -1,26 +1,3 @@
-# binnum=[1,1,1,0,0,0]    
-# i=0
-# sum=0
-# sum1=0
-# while i<len(binnum):
-#     A=binnum[i]
-#     sum=A*(i**2)
-#     i+=1
-#     sum1+=1
-# print(sum1)
-
-
-# a=[]
-# size=int(input("Enter the size: "))
-# for i in range(size):
-#     binary=int(input("Enter the number: "))
-#     a.append(binary)
-# total=0    
-# for i in range(a,-1):
-#     total=2**i*a
-#     print(total)    
-
-
 
 # i=int(input("Enter the number: "))
 # a=0
