@@ -8,9 +8,9 @@
 
 
 # place=['Delhi','Gujrat','Rajesthan','Punjab','Kerla']
-# i=[4]
+# i=len(place)-1
 # b=[]
-# while i>len[place]:
+# while i+1:
 #     print(b[i])
 #     i=i-1
 
